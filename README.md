@@ -30,6 +30,6 @@
 
 [![Khan Academy](https://img.shields.io/badge/Khan_Academy-SWE_Intern-F0F0F0?style=for-the-badge&logo=KhanAcademy&logoColor=white&labelColor=%2314BF96)](https://www.khanacademy.org/)
 
-[![Khan Academy](https://img.shields.io/badge/Lyft-SWE_Intern-F0F0F0?style=for-the-badge&logo=Lyft&logoColor=white&labelColor=fc72cf)](https://www.lyft.com/)
+[![Lyft](https://img.shields.io/badge/Lyft-SWE_Intern-F0F0F0?style=for-the-badge&logo=Lyft&logoColor=white&labelColor=fC72CF)](https://www.lyft.com/)
 
 </div>
