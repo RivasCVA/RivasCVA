@@ -34,4 +34,6 @@
 
 [![Fetch](https://img.shields.io/badge/Fetch-SWE-F0F0F0?style=for-the-badge&labelColor=F60)](https://www.fetch.com/)
 
+[![Lyft](https://img.shields.io/badge/Lyft-SWE-F0F0F0?style=for-the-badge&logo=Lyft&logoColor=white&labelColor=fC72CF)](https://www.lyft.com/)
+
 </div>
